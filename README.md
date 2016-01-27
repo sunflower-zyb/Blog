@@ -5,4 +5,4 @@
       目前已有[RxJava](https://github.com/sunflower-zyb/Blog/blob/master/R%2FRxjava.md)、[Retrofit](https://github.com/sunflower-zyb/Blog/blob/master/R%2FRetrofit.md)
 
 * Issues总结自己平常遇到的小问题
-* tools目录总额一些提高工具效率的小工具
+* tools目录总结一些提高工具效率的小工具
