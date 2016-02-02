@@ -11,6 +11,13 @@
 
 知道RxJava如何使用，知道为何这么使用？那就那看这篇文章吧！从最简单的例子开始，一步步向RxJava迈进。（PS：最好原链接和译文一起阅读，译文中有些地方翻译错误）
 
+## 书籍翻译
+
+[ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html)
+
+[RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/index.html)
+
+
 ## 进阶篇
 
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)
@@ -22,4 +29,4 @@
 
 [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 
-RxJava操作符Sample
+RxJavaSample,配合翻译书籍食用更佳。
