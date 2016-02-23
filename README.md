@@ -12,6 +12,7 @@
 ##F
 ##G
   * [Glide](https://github.com/sunflower-zyb/Blog/blob/master/G/Glide.md)：图片加载
+  * [Android Performance Patterns](https://github.com/sunflower-zyb/Blog/blob/master/A/Android%20Performance%20Patterns.md):Google官方发布的Android性能优化典范
   
 ##H
 ##I
