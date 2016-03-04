@@ -8,6 +8,10 @@
 
 介绍了Glide的基本用法以及若干常见错误。
 
+[Glide - 开始！](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+
+翻译国外的一个教程，文章由渐入深，写得很详细！
+
 
 ## 开源库
 
