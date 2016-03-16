@@ -18,4 +18,6 @@ Simple plug-in for Android Studio/IDEA that allows one-click creation of [butter
 
 ![P](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif)
 
-[Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)icon生成器
+[Android Material Design Icon Generator Plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
+
+可以很方便的生成各个尺寸的图片资源
