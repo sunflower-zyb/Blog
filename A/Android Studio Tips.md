@@ -7,6 +7,12 @@
 Android Studio快捷键，提升工作效率
 
 
+
+[Android Studio advanced configuration](http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
+
+Android Studio的一些配置选项
+
+
 ## Android Studio插件
 
 ![P](https://github.com/avast/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
