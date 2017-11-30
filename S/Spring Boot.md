@@ -6,3 +6,6 @@
 [Spring Boot系列文章](http://www.ityouknow.com/spring-boot)
 
 根据这个系列的文章来学习
+
+[安装mysql server失败](!https://zhuanlan.zhihu.com/p/28672909)
+
