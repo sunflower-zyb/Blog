@@ -7,5 +7,5 @@
 
 根据这个系列的文章来学习
 
-[安装mysql server失败](!https://zhuanlan.zhihu.com/p/28672909)
+[安装mysql server失败](https://zhuanlan.zhihu.com/p/28672909)
 
