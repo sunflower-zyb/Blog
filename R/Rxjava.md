@@ -30,3 +30,6 @@
 [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 
 RxJavaSample,配合翻译书籍食用更佳。
+
+[ 解决RxJava内存泄漏（前篇）](http://blog.csdn.net/mq2553299/article/details/78927617)
+RxJava引起的内存泄露
