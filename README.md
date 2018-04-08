@@ -5,6 +5,8 @@
 ##A
   * [Android Studio Tips](https://github.com/sunflower-zyb/Blog/blob/master/A%2FAndroid%20Studio%20Tips.md)：Android Studio使用小技巧
   
+  * [Android Performance Patterns](https://github.com/sunflower-zyb/Blog/blob/master/A/Android%20Performance%20Patterns.md):Google官方发布的Android性能优化典范
+  
 ##B
 ##C
 ##D
@@ -12,7 +14,7 @@
 ##F
 ##G
   * [Glide](https://github.com/sunflower-zyb/Blog/blob/master/G/Glide.md)：图片加载
-  * [Android Performance Patterns](https://github.com/sunflower-zyb/Blog/blob/master/A/Android%20Performance%20Patterns.md):Google官方发布的Android性能优化典范
+
   
 ##H
 ##I
@@ -21,6 +23,8 @@
 ##L
 ##M
   * [MAT](https://github.com/sunflower-zyb/Blog/blob/master/M/MAT.md):内存分析工具
+  
+  * [MVVM.md](https://github.com/sunflower-zyb/Blog/blob/master/M/MVVM.md)
   
 ##N
 ##O
